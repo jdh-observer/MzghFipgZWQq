@@ -23,7 +23,15 @@ C<sup>2</sup>DH, University of Luxembourg
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["contributor"] -->
+
 ### Elisabeth Guerard [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-7742-4141) 
+C<sup>2</sup>DH, University of Luxembourg
+<!-- #endregion -->
+
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["contributor"] -->
+
+### Mirjam Pfeiffer
+
 C<sup>2</sup>DH, University of Luxembourg
 <!-- #endregion -->
 
