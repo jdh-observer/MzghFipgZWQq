@@ -309,7 +309,7 @@ As mentioned, this is only the beginning of our v3-design, a design that will pu
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["narrative"] -->
-<p style="text-align: center;">*</p>
+<p style='text-align: center;'>*</p>
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["narrative"] -->
@@ -317,7 +317,7 @@ The *Journal of Digital History* team is happy to be part of [*Revue 3.0*](https
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["narrative"] -->
-<p style="text-align: center;">*</p>
+<p style='text-align: center;'>*</p>
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["narrative"] -->
