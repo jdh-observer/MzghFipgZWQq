@@ -307,17 +307,10 @@ As mentioned, this is only the beginning of our v3-design, a design that will pu
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["narrative"] -->
 ---
-<!-- #endregion -->
-
-
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["narrative"] -->
 The *Journal of Digital History* team is happy to be part of [*Revue 3.0*](https://revue30.org/), a project led by [Marcello Vitali-Rosati](https://vitalirosati.com/) (Université de Montréal) that “aims to develop the expertise needed to envision, design, and create protocols, infrastructures, and tools for academic journal publishing”.
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["narrative"] -->
 ---
-<!-- #endregion -->
-
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["narrative"] -->
 A few months ago, our colleague Lars Wieneke left the  C²DH to start a new phase of his career outside academia. As head of the centre's digital infrastructure, Lars was an enthusiastic member of the team which built the *Journal of Digital History*. We wish to thank him for his fantastic contribution to this project.
 <!-- #endregion -->
