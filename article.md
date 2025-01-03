@@ -305,9 +305,11 @@ This new design and its new functionalities are still in beta. One current limit
 As mentioned, this is only the beginning of our v3-design, a design that will put even more emphasis on our authors' efforts to make the *Journal of Digital History*'s articles reproducible, and to make this reproducibility an asset for both authors and readers. As much as history is an unfinished business, the development and design of an online journal in the rapidly changing landscape of digital history and humanities remains a challenge in continuous engineering!
 <!-- #endregion -->
 
+
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["narrative"] -->
-    The *Journal of Digital History* team is happy to be part of [*Revue 3.0*](https://revue30.org/), a project led by [Marcello Vitali-Rosati](https://vitalirosati.com/) (Université de Montréal) that “aims to develop the expertise needed to envision, design, and create protocols, infrastructures, and tools for academic journal publishing”.
+        The *Journal of Digital History* team is happy to be part of [*Revue 3.0*](https://revue30.org/), a project led by [Marcello Vitali-Rosati](https://vitalirosati.com/) (Université de Montréal) that “aims to develop the expertise needed to envision, design, and create protocols, infrastructures, and tools for academic journal publishing”.
 <!-- #endregion -->
+
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["narrative"] -->
     A few months ago, our colleague Lars Wieneke left the  C²DH to start a new phase of his career outside academia. As head of the centre's digital infrastructure, Lars was an enthusiastic member of the team which built the *Journal of Digital History*. We wish to thank him for his fantastic contribution to this project.
