@@ -306,15 +306,16 @@ As mentioned, this is only the beginning of our v3-design, a design that will pu
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["narrative"] -->
-<p style='text-align: center;'>*</p>
+---
 <!-- #endregion -->
+
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["narrative"] -->
 The *Journal of Digital History* team is happy to be part of [*Revue 3.0*](https://revue30.org/), a project led by [Marcello Vitali-Rosati](https://vitalirosati.com/) (Université de Montréal) that “aims to develop the expertise needed to envision, design, and create protocols, infrastructures, and tools for academic journal publishing”.
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["narrative"] -->
-<p style='text-align: center;'>*</p>
+---
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["narrative"] -->
