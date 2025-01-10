@@ -138,7 +138,7 @@ df['Clickable Title'] = df.apply(lambda row: f'<b>{row["Issue"]}:</b> <a href="{
 
 ```
 
-```python editable=true slideshow={"slide_type": ""} tags=["narrative"]
+```python editable=true slideshow={"slide_type": ""} tags=["narrative", "figure-1"] jdh={"module": "object", "object": {"source": ["Article Submission and Review Process Duration (Sorted by Issue)"]}}
 # Create the figure
 fig = go.Figure()
 
@@ -194,7 +194,7 @@ As you can see in Figure 1, the delays to publish an article in JHD can be quite
 Sometimes, an article's peer review can also be delayed due to unforeseen technical issues. *Dialects of Discord* has had a very long technical review as it was the first article in R that we published and we lacked some know-how to technically review it faster. Articles submitted in R today are just as normal as articles in Python for us today, though.
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["hermeneutics"]
+```python editable=true slideshow={"slide_type": ""} tags=["hermeneutics", "table-1"] jdh={"module": "object", "object": {"source": ["Mean durations by issue"]}}
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -224,7 +224,7 @@ print(issue_means)
 
 ```
 
-```python editable=true slideshow={"slide_type": ""} tags=["narrative"]
+```python editable=true slideshow={"slide_type": ""} tags=["narrative", "figure-2"] jdh={"module": "object", "object": {"source": ["Mean Duration of Review Stages by Issue"]}}
 # Create a stacked bar plot
 fig, ax = plt.subplots(figsize=(12, 6))
 issue_means.plot(kind='bar', stacked=True, ax=ax)
