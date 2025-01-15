@@ -243,7 +243,7 @@ Nevertheless, as you can see with both figure 1 & 2, the timespan between submis
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
-For more general statistics about the Journal of Digital History, [you can consult this page](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZDMkRIJTJGam91cm5hbC1vZi1kaWdpdGFsLWhpc3RvcnktYmFja2VuZCUyRmRldmVsb3AlMkZqZGhfc3RhdGlzdGljcy5pcHluYg==).
+For more general statistics about the Journal of Digital History, [you can consult this page](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZDMkRIJTJGam91cm5hbC1vZi1kaWdpdGFsLWhpc3RvcnktaXB5bmItcHJlZmxpZ2h0LWFjdGlvbiUyRnN0YXRzJTJGamRoX3N0YXRpc3RpY3MuaXB5bmI=).
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["narrative"] -->
