@@ -143,7 +143,7 @@ df['Clickable Title'] = df.apply(lambda row: f'<b>{row["Issue"]}:</b> <a href="{
 fig = go.Figure()
 
 # Define colors (reversed order to match the new stage order)
-colors = ['#ff7f0e', '#2ca02c', '#d62728'][::-1]
+colors = ['#ff7f0e', '#2171b5', '#969696'][::-1]
 
 # Create stacked bars (reversed order of stages)
 stages = ['Technical Review duration', 'Peer Review Duration', 'Review to Publication']
